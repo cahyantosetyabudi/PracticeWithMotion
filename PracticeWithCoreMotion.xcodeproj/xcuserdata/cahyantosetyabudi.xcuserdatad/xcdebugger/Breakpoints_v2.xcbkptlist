@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "384BAE16-EA4C-4A3B-8691-378E0A9166EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CE70807-3D1B-43AD-851F-B5FFBFB18CA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PracticeWithCoreMotion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "restartMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C907EF25-D8E8-40F4-A4CD-A10025B4EFA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PracticeWithCoreMotion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "restartMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80EE3E7D-F2EE-4462-8488-9B066DB84A50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PracticeWithCoreMotion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "restartMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E423589-931B-4A5A-897A-D82CE15FA642"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PracticeWithCoreMotion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "restartMotionUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03ECBAE3-78FA-4A64-B85E-DF3D3DA46004"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PracticeWithCoreMotion/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "restartMotionUpdates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03ECBAE3-78FA-4A64-B85E-DF3D3DA46004 - c52d0d3fa130c23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PracticeWithCoreMotion.MotionDetector.(restartMotionUpdates in _CB9D3F7C6F56DECC15E7B6BF0B5FA6DF)() -&gt; ()"
+                  moduleName = "PracticeWithCoreMotion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cahyantosetyabudi/Desktop/PracticeWithCoreMotion/PracticeWithCoreMotion/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "03ECBAE3-78FA-4A64-B85E-DF3D3DA46004 - 4fb021be6fe8eb41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CMDeviceMotion&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PracticeWithCoreMotion.MotionDetector.(restartMotionUpdates in _CB9D3F7C6F56DECC15E7B6BF0B5FA6DF)() -&gt; ()"
+                  moduleName = "PracticeWithCoreMotion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cahyantosetyabudi/Desktop/PracticeWithCoreMotion/PracticeWithCoreMotion/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
